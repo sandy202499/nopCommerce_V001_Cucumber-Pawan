@@ -55,6 +55,7 @@ public class Steps extends BaseClass {
 			driver = new EdgeDriver();
 		}
 		logg.info("************ Launching Browser *************");
+		logg.info("************ Test 3333333 *************");
 	}
 
 	// public WebDriver driver; // this variables moved to base class
