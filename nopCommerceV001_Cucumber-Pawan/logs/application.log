@@ -1,0 +1,6 @@
+2024-07-09 10:34:27,681 [main] INFO  nopCommerce - ************ Launching Browser *************
+2024-07-09 10:34:27,684 [main] INFO  nopCommerce - ************ Launching URL *************
+2024-07-09 10:34:28,391 [main] INFO  nopCommerce - ************ Providing login details *************
+2024-07-09 10:34:28,700 [main] INFO  nopCommerce - ************ Started login *************
+2024-07-09 10:34:38,143 [main] INFO  nopCommerce - ************ searching customer by name *************
+2024-07-09 10:34:41,811 [main] INFO  nopCommerce - ************ closing brower *************

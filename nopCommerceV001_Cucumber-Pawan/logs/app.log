@@ -1,0 +1,6 @@
+2024-07-09 00:10:33,170 [main] INFO  nopCommerceV001-Cucumber-Pawan - ************ Launching Browser *************
+2024-07-09 00:10:33,172 [main] INFO  nopCommerceV001-Cucumber-Pawan - ************ Launching URL *************
+2024-07-09 00:10:33,624 [main] INFO  nopCommerceV001-Cucumber-Pawan - ************ Providing login details *************
+2024-07-09 00:10:33,945 [main] INFO  nopCommerceV001-Cucumber-Pawan - ************ Started login *************
+2024-07-09 00:10:43,672 [main] INFO  nopCommerceV001-Cucumber-Pawan - ************ searching customer by name *************
+2024-07-09 00:10:47,378 [main] INFO  nopCommerceV001-Cucumber-Pawan - ************ closing brower *************
